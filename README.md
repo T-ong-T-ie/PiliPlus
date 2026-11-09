@@ -14,10 +14,11 @@
 > 若新版在你的网络下有问题，可回退 `v2.1.4-btr.12`（同签名，可直接覆盖安装）。
 
 > ### ⚠️ 这是个人 fork，不是官方仓库
-> 本仓库是 **[bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)** 的个人衍生版，在其基础上**只加了一件事**：
+> 本仓库是 **[bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)** 的个人衍生版，在其基础上**加了两件事**：
 > 用「本地 HTTP 代理 + 多 Range 并发」解决**海外**看 B 站被单连接 CDN 限速导致的「一直转圈、加载卡死」。
 > 想要官方版本、官方功能说明与官方更新，请前往 **[上游仓库](https://github.com/bggRGjQaUbCoE/PiliPlus)**。
 > 上游的原始 README（含完整功能清单）保留在 **[README-upstream.md](README-upstream.md)**。
+> 修改包名将应用伪装成优酷手机版，适合未Root的K90ProMax
 
 <br/>
 
