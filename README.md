@@ -18,7 +18,7 @@
 > 用「本地 HTTP 代理 + 多 Range 并发」解决**海外**看 B 站被单连接 CDN 限速导致的「一直转圈、加载卡死」。
 > 想要官方版本、官方功能说明与官方更新，请前往 **[上游仓库](https://github.com/bggRGjQaUbCoE/PiliPlus)**。
 > 上游的原始 README（含完整功能清单）保留在 **[README-upstream.md](README-upstream.md)**。
-> 修改包名将应用伪装成优酷手机版，适合未Root的K90ProMax
+> 修改包名将应用伪装成b站概念版（蓝色b站），适合未Root的红米K90ProMax
 
 <br/>
 
