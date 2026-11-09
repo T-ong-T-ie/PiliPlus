@@ -28,7 +28,8 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.youku.phone"
+        // 修改为b站概念版包名
+        applicationId = "com.bilibili.app.blue"
         minSdk = flutter.minSdkVersion
         targetSdk = 37
         versionCode = flutter.versionCode
